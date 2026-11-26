@@ -1,5 +1,5 @@
 {
-  "ShowAds": false,
+  "ShowAds": true,
   "networkAd": "appodeal",
   "forceOpenAd": true,
   "splash": {
@@ -24,7 +24,7 @@
   }
 },
     "appodeal": {
-      "appKey": "24e3209acc533e3bd19dc9947db56abea6af074d662b9696"
+      "appKey": "1a84180cb20aeade6e6e5bf95bf14ed8e0f4715a3882e581"
     },
     "admob": {
       "appId": "ca-app-pub-3940256099942544~3347511713",
